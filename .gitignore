@@ -67,3 +67,8 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+# Obsidian Files
+/content/.obsidian
+/content/_private
+obsidian.css
